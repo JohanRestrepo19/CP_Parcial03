@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"golems.png",
+ "imageheight":94,
+ "imagewidth":87,
+ "margin":0,
+ "name":"golems",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.4.3",
+ "tileheight":47,
+ "tilewidth":29,
+ "type":"tileset",
+ "version":1.4
+}

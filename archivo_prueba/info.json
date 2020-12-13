@@ -1,0 +1,13 @@
+[
+  {
+    "nombre": "Johan",
+    "Apellido": "Restrepo",
+    "Edad": 19,
+    "Ciudad": "Dosquebradas"
+  },
+  {
+    "nombre": "Yorly",
+    "Apellido": "Ladino",
+    "Edad": 19
+  }
+]

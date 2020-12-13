@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"cielo.jpg",
+ "imageheight":1316,
+ "imagewidth":4380,
+ "margin":0,
+ "name":"cielo",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.4.3",
+ "tileheight":1316,
+ "tilewidth":4380,
+ "type":"tileset",
+ "version":1.4
+}

@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"lobos.png",
+ "imageheight":104,
+ "imagewidth":144,
+ "margin":0,
+ "name":"lobos",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.4.3",
+ "tileheight":52,
+ "tilewidth":48,
+ "type":"tileset",
+ "version":1.4
+}

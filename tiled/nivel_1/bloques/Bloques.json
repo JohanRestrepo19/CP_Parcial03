@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"Bloques.jpg",
+ "imageheight":32,
+ "imagewidth":160,
+ "margin":0,
+ "name":"Bloques",
+ "spacing":0,
+ "tilecount":5,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

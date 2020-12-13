@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"arpias.png",
+ "imageheight":92,
+ "imagewidth":120,
+ "margin":0,
+ "name":"arpias",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.4.3",
+ "tileheight":46,
+ "tilewidth":40,
+ "type":"tileset",
+ "version":1.4
+}

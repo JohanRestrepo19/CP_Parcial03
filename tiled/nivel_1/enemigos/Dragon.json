@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"Dragon.png",
+ "imageheight":166,
+ "imagewidth":351,
+ "margin":0,
+ "name":"Dragon",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.4.3",
+ "tileheight":83,
+ "tilewidth":117,
+ "type":"tileset",
+ "version":1.4
+}

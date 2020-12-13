@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"Cobras.png",
+ "imageheight":60,
+ "imagewidth":144,
+ "margin":0,
+ "name":"Cobras",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.4.3",
+ "tileheight":30,
+ "tilewidth":48,
+ "type":"tileset",
+ "version":1.4
+}

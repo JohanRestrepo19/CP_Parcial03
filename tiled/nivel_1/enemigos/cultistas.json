@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"cultistas.png",
+ "imageheight":94,
+ "imagewidth":99,
+ "margin":0,
+ "name":"cultistas",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.4.3",
+ "tileheight":47,
+ "tilewidth":33,
+ "type":"tileset",
+ "version":1.4
+}

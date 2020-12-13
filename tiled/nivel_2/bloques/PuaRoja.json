@@ -1,0 +1,14 @@
+{ "columns":2,
+ "image":"PuaRoja.png",
+ "imageheight":60,
+ "imagewidth":120,
+ "margin":0,
+ "name":"PuaRoja",
+ "spacing":0,
+ "tilecount":2,
+ "tiledversion":"1.4.3",
+ "tileheight":60,
+ "tilewidth":60,
+ "type":"tileset",
+ "version":1.4
+}
